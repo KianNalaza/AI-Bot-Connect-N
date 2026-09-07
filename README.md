@@ -1,6 +1,5 @@
 # AI Bot Connect-N
-Embedded AI Bot using C++, Arduino and 13.56 MHz OOK communication to autonomously play Connect-N.
-The embedded systems project was developed as part of EEN1092 at Dublin City University.
+Embedded AI Bot using C++, Arduino and 13.56 MHz OOK communication to autonomously play Connect-N, developed as part of EEN1092 at Dublin City University.
 
 The project involved designing and building a PCB-based AI Bot capable of communicating wirelessly with a central hub and playing Connect-N against another autonomous bot.
 
