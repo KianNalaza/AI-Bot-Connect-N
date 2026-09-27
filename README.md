@@ -49,7 +49,7 @@ Messages are transmitted as 16-bit Protocol Data Units (PDUs). The communication
 * Move messages
 * Communication with the game logic
 
-<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/e1b27f3d-ef84-42a9-8059-401dc5e6cf99" />
+<img width="512" height="384" alt="image" src="https://github.com/user-attachments/assets/e1b27f3d-ef84-42a9-8059-401dc5e6cf99" />
 
 ## Software
 
