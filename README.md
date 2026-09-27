@@ -3,7 +3,7 @@ Embedded AI Bot using C++, Arduino and 13.56 MHz OOK communication to autonomous
 
 The project involved designing and building a PCB-based AI Bot capable of communicating wirelessly with a central hub and playing Connect-N against another autonomous bot.
 
-<img width="768" height="1024" alt="image" src="https://github.com/user-attachments/assets/d5496263-0ce2-45ba-a33d-04c0aa353758" />
+<img width="384" height="512" alt="image" src="https://github.com/user-attachments/assets/d5496263-0ce2-45ba-a33d-04c0aa353758" />
 
 ## Project Overview
 
