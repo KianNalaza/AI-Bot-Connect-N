@@ -37,10 +37,6 @@ LTspice circuit:
 Breadboard circuit:
 <img width="512" height="384" alt="image" src="https://github.com/user-attachments/assets/c1395507-d858-4481-9073-38577fcbf91a" />
 
-PCB:
-<img width="384" height="512" alt="image" src="https://github.com/user-attachments/assets/4af7e2bc-2391-483f-869e-1ab0f413b107" />
-
-
 ## Communications
 
 Communication between the Bot and Hub uses On-Off Keying of a 13.56 MHz carrier.
