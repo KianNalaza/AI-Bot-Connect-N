@@ -32,6 +32,7 @@ Measured values were approximately:
 The receiver circuit was designed and simulated using LTspice before being constructed on a breadboard and transferred to the AI Bot PCB.
 
 LTspice circuit:
+
 <img width="1881" height="465" alt="image" src="https://github.com/user-attachments/assets/0a1d44b5-b59b-4f4c-8557-fb94c78f1037" />
 
 Breadboard circuit:
