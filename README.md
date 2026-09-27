@@ -66,7 +66,7 @@ The project contains classes for:
 
 Different player implementations were developed, including random and more strategic move-selection behaviour.
 
-<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/3502b922-5541-4844-bc66-9342e5652db6" />
+<img width="512" height="384" alt="image" src="https://github.com/user-attachments/assets/3502b922-5541-4844-bc66-9342e5652db6" />
 
 ## Tools & Technologies
 
