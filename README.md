@@ -91,6 +91,6 @@ This project provided practical experience integrating software and hardware int
 
 ## Author
 
-Kian Nalaza
+**Kian Nalaza**
 Electronic and Computer Engineering
 Dublin City University
