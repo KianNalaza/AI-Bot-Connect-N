@@ -86,15 +86,6 @@ Different player implementations were developed, including random and more strat
 * Soldering
 * Git/GitHub
 
-## Repository Structure
-
-```text
-src/        C++ game logic and supporting classes
-arduino/    Embedded TX/RX communications code
-docs/       Project documentation and specifications
-images/     Hardware, simulation and test-result images
-```
-
 ## What I Learned
 
 This project provided practical experience integrating software and hardware into a complete embedded system. It involved debugging both analogue circuits and embedded software, analysing oscilloscope measurements, designing resonant circuits, implementing a communications protocol and integrating wireless communication with game-playing software.
