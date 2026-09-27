@@ -32,7 +32,7 @@ Measured values were approximately:
 The receiver circuit was designed and simulated using LTspice before being constructed on a breadboard and transferred to the AI Bot PCB.
 
 <img width="1881" height="465" alt="image" src="https://github.com/user-attachments/assets/0a1d44b5-b59b-4f4c-8557-fb94c78f1037" />
-
+ 
 <img width="384" height="512" alt="image" src="https://github.com/user-attachments/assets/4af7e2bc-2391-483f-869e-1ab0f413b107" />
 
 ## Communications
@@ -65,6 +65,8 @@ The project contains classes for:
 * Game visualisation
 
 Different player implementations were developed, including random and more strategic move-selection behaviour.
+
+<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/3502b922-5541-4844-bc66-9342e5652db6" />
 
 ## Tools & Technologies
 
