@@ -33,7 +33,7 @@ The receiver circuit was designed and simulated using LTspice before being const
 
 <img width="1881" height="465" alt="image" src="https://github.com/user-attachments/assets/0a1d44b5-b59b-4f4c-8557-fb94c78f1037" />
 
-<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/4af7e2bc-2391-483f-869e-1ab0f413b107" />
+<img width="384" height="512" alt="image" src="https://github.com/user-attachments/assets/4af7e2bc-2391-483f-869e-1ab0f413b107" />
 
 ## Communications
 
@@ -49,7 +49,7 @@ Messages are transmitted as 16-bit Protocol Data Units (PDUs). The communication
 * Move messages
 * Communication with the game logic
 
-<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/e1b27f3d-ef84-42a9-8059-401dc5e6cf99" />
+<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/e1b27f3d-ef84-42a9-8059-401dc5e6cf99" />
 
 ## Software
 
